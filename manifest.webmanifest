@@ -1,0 +1,40 @@
+{
+  "id": "/Fairway-New/",
+  "name": "TheFairway",
+  "short_name": "TheFairway",
+  "description": "GPS distances, scorecards, live matches and leaderboards for Les Ormes.",
+  "start_url": "/Fairway-New/?source=pwa",
+  "scope": "/Fairway-New/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
+  "background_color": "#0a6440",
+  "theme_color": "#0a6440",
+  "categories": [
+    "sports",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
